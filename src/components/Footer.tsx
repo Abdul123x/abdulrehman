@@ -76,7 +76,7 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} DevPortfolio. All rights reserved.
+            © {new Date().getFullYear()} Abdulrehman. All rights reserved.
           </p>
 
           <button
